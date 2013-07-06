@@ -1,5 +1,8 @@
 ---
-layout: default
-title: אריאל
+layout: page
+title: "אריאל"
+comments: true
+categories: 
 ---
 <p>אריאל</p>
+<p>dfdfdfdfdfdfd</p>
